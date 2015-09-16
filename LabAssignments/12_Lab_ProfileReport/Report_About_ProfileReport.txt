@@ -1,0 +1,7 @@
+//
+// Lab assignment Tuesday April 7th 2015
+// Created by Christopher Jones 
+// CS 23001
+//
+
+The profile report I generated for bigint.cpp & add.cpp shows a detailed report of which methods were called, how often, and other relevant information. The most common call was to bigint::zero which zeros out the array. This happens every time an object is instantiated. I suspect there is no getting around it. It is technically possible to initialize these values with the constructor , but I can't say whether it would be more efficient. 

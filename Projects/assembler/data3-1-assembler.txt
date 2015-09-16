@@ -1,0 +1,75 @@
+LDR	B
+MUL	C
+STR	TEMP1
+LDR	AX
+ADD	TEMP1
+STR	TEMP2
+=============================================
+LDR	B
+MUL	CY
+STR	TEMP1
+LDR	
+AX
+ADD	TEMP1
+STR	TEMP2
+LDR	D
+SUB	E
+STR	TEMP3
+LDR	TEMP2
+DIV	TEMP3
+STR	TEMP4
+=============================================
+LDR	
+A
+ADD	B
+STR	TEMP1
+LDR	C
+ADD	E
+STR	TEMP2
+LDR	TEMP1
+MUL	TEMP2
+STR	TEMP3
+=============================================
+LDR	CY
+ADD	AY
+STR	TEMP1
+LDR	TEMP1
+ADD	BY
+STR	TEMP2
+LDR	TEMP2
+MUL	CX
+STR	TEMP3
+LDR	BX
+MUL	TEMP3
+STR	TEMP4
+LDR	
+AX
+MUL	TEMP4
+STR	TEMP5
+=============================================
+LDR	B
+ADD	C
+STR	TEMP1
+LDR	TEMP1
+MUL	D
+STR	TEMP2
+LDR	A
+ADD	TEMP2
+STR	TEMP3
+LDR	TEMP3
+MUL	F
+STR	TEMP4
+LDR	TEMP4
+MUL	G
+STR	TEMP5
+LDR	TEMP5
+MUL	E
+STR	TEMP6
+LDR	
+H
+MUL	TEMP6
+STR	TEMP7
+LDR	TEMP7
+ADD	J
+STR	TEMP8
+=============================================

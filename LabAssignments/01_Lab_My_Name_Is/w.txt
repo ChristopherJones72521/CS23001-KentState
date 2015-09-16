@@ -1,0 +1,27 @@
+ 12:49:31 up 6 days, 59 min, 25 users,  load average: 0.03, 0.06, 0.05
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+root     pts/0     Mon17    2:25m  0.27s  0.27s -bash
+hpeyravi pts/1     09:40    3:06m  0.12s  0.12s -bash
+hpeyravi pts/2     11:30   51:55   0.21s  0.21s -bash
+dforebac pts/3     12:07   41:39   0.11s  0.11s -bash
+mkaifesh pts/4     12:30    3.00s  0.18s  0.18s -bash
+tzee     pts/5     12:45    3.00s  0.12s  0.12s -bash
+mhazelt2 pts/6     12:31   11.00s  0.27s  0.27s -bash
+fxing    pts/7     12:23   19.00s  0.34s  0.34s -bash
+tstrawbr pts/8     12:23   11.00s  0.24s  0.24s -bash
+cblosser pts/9     12:24   11.00s  0.34s  0.34s -bash
+cnewman  pts/10    12:23    3:23   0.15s  0.15s -bash
+areese18 pts/11    12:23    3.00s  0.23s  0.23s -bash
+mfulton7 pts/12    12:26    3.00s  0.15s  0.15s -bash
+jstanko2 pts/13    12:24    3.00s  0.16s  0.16s -bash
+rkozak1  pts/14    12:24    3.00s  0.21s  0.21s -bash
+jgrgetic pts/15    12:24    3.00s  0.16s  0.16s -bash
+mbitzel  pts/16    12:24    1:47   0.18s  0.18s -bash
+ekonrad  pts/17    12:24    1:15   0.14s  0.14s -bash
+jli39    pts/18    12:24    1:07   0.64s  0.30s -bash
+ebrown44 pts/19    12:28   27.00s  0.37s  0.37s -bash
+cjones36 pts/20    12:25    3.00s  0.26s  0.01s w
+kjoseph8 pts/21    12:25    5:07   0.11s  0.11s -bash
+tmmobley pts/22    12:39   11.00s  0.12s  0.12s -bash
+jarnol31 pts/23    12:47    2:03   0.10s  0.10s -bash
+mfedynia pts/24    12:48    3.00s  0.13s  0.13s -bash

@@ -1,0 +1,49 @@
+LDR	B
+MUL	C
+STR	TEMP1
+LDR	A
+ADD	TEMP1
+STR	TEMP2
+=============================================
+LDR	B
+MUL	C
+STR	TEMP1
+LDR	
+A
+SUB	TEMP1
+STR	TEMP2
+LDR	TEMP2
+ADD	E
+STR	TEMP3
+=============================================
+LDR	B
+MUL	C
+STR	TEMP1
+LDR	
+A
+ADD	TEMP1
+STR	TEMP2
+LDR	D
+SUB	E
+STR	TEMP3
+LDR	TEMP2
+DIV	TEMP3
+STR	TEMP4
+=============================================
+LDR	
+A
+MUL	B
+STR	TEMP1
+LDR	TEMP1
+DIV	C
+STR	TEMP2
+LDR	D
+ADD	E
+STR	TEMP3
+LDR	TEMP3
+MUL	F
+STR	TEMP4
+LDR	TEMP2
+SUB	TEMP4
+STR	TEMP5
+=============================================

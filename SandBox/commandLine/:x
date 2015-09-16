@@ -1,0 +1,16 @@
+//
+// Command line exercise
+//
+
+
+#include <iostream>
+
+int main (int argc, char** argv)
+{
+	std::cerr<<"Num args: "<<argc<<std::endl;
+	for (int i=1; i<argc; ++i){
+	std::cerr<<"The file "<<argv[0]<<" contains these arguments: "argv[i]<<' ';
+	}
+	std::cout<<std::endl;
+return 0;
+}

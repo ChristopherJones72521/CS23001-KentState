@@ -1,0 +1,13 @@
+LDR	BY
+MUL	C
+STR	TEMP1
+LDR	AX
+ADD	TEMP1
+STR	TEMP2
+LDR	D4
+SUB	E
+STR	TEMP3
+LDR	TEMP2
+DIV	TEMP3
+STR	TEMP4
+=============================================
